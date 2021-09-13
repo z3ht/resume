@@ -12,6 +12,10 @@ I am `OPEN` to any possible opportunities and am especially interested in doing 
 
 Feel free to connect with me at: [andr3w.darling@gmail.com]()
 
+#### Technical Interests
+- Proving code correctness
+- Predictions with incomplete information
+
 ## Preview
 
 ![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
