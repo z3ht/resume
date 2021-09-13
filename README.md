@@ -1,19 +1,11 @@
-Deedy-Resume
+Andrew Darling
 =========================
 
-A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
-As of **v1.2**, there is an option to choose from two templates:
+Thanks for visiting my GitHub resume page!
 
-1. **MacFonts** - uses fonts native to OSX - *Helvetica*, *Helvetica Neue* (and it's Light and Ultralight versions) and the CJK fonts *Heiti SC*, and *Heiti TC*. The EULA of these fonts prevents distribution on Open Source.
-2. **OpenFonts** - uses free, open-source fonts that resemble the above - *Lato* (and its various variants) and *Raleway*.
+For more information about me, consider also looking at some of the repositories I am most proud of: [silver mind](), [the executioner](), and [moving pose]().
 
-It is licensed under the Apache License 2.0.
-
-## Motivation
-
-Common LaTeX resume-builders such as [**moderncv**](http://www.latextemplates.com/template/moderncv-cv-and-cover-letter)  and the [**friggeri-cv**](https://github.com/afriggeri/cv) look great if you're looking for a multi-page resume with numerous citations, but usually imperfect for making a thorough, single-page one. A lot of companies today search resumes based on [keywords](http://www.businessinsider.com/most-big-companies-have-a-tracking-system-that-scans-your-resume-for-keywords-2012-1) but at the same time require/prefer a one-page resume, especially for undergraduates. 
-
-This template attempts to **look clean**, highlight **details**, be a **single page**, and allow useful **LaTeX templating**.
+You can also connect with me at `andr3w.darling@gmail.com`. I am `open` to any possible opportunities and am especially interested in doing meaningful work in modernizing education and mental health services!
 
 ## Preview
 
@@ -23,43 +15,9 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 ### MacFonts
 ![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
 
-## Dependencies
-
-1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
-2. Uses fonts that are usually only available to **Mac** users such as Helvetica Neue Light.
-
 ## Availability
 
-1. MacFonts version - [as an online preview](http://debarghyadas.com/resume/debarghya-das-resume.pdf) and [as a direct download](https://github.com/deedydas/Deedy-Resume/raw/master/MacFonts/deedy_resume.pdf)
-2. OpenFonts version - [as a direct download](https://github.com/deedydas/Deedy-Resume/raw/master/OpenFonts/deedy_resume-openfont.pdf)
-3. **Overleaf**.com (formerly **WriteLatex**.com) (v1 fonts/colors changed) - [compilable online](https://www.writelatex.com/templates/deedy-resume/sqdbztjjghvz#.U2H9Kq1dV18)
-4. **ShareLatex**.com (v1 fonts changes) - [compilable online](https://www.sharelatex.com/templates/cv-or-resume/deedy-resume)
-
-## Changelog
-### v1.2
- 1. Added publications in place of societies.
- 2. Collapsed a portion of education.
- 3. Fixed a bug with alignment of overflowing long last updated dates on the top right. 
-
-### v1.1
- 1. Fixed several compilation bugs with \renewcommand
- 2. Got Open-source fonts (Windows/Linux support)
- 3. Added Last Updated
- 4. Moved Title styling into .sty
- 5. Commented .sty file.
-
-## TODO
-1. Merge OpenFont and MacFonts as a single sty with options.
-2. Figure out a smoother way for the document to flow onto the next page.
-3. Add styling information for a "Projects/Hacks" section.
-4. Add location/address information
-5. Fix the hacky 'References' omission outside the .cls file in the MacFonts version.
-6. Add various styling and section options and allow for multiple pages smoothly.
-
-## Known Issues:
-1. Overflows onto second page if any column's contents are more than the vertical limit
-2. Hacky space on the first bullet point on the second column.
-3. Hacky redefinition of \refname to omit 'References' text for publications in the MacFonts version.
+1. PDF vesion - [on my website](https://andrewdarling.xyz/resume.pdf)
 
 ## License
     Copyright 2014 Debarghya Das
