@@ -3,12 +3,12 @@ Andrew Darling
 
 Thanks for visiting my GitHub resume page!
 
+I am `OPEN` to any possible opportunities and am especially interested in doing meaningful work that modernizes education and mental health services! As long as I am provided with enough money to live, I do NOT care about pay - only impact.
+
 For more information about me, consider also looking at some of the repositories I am most proud of:
 - [silver-mind]()
 - [executioner]()
 - [moving-pose]()
-
-I am `OPEN` to any possible opportunities and am especially interested in doing meaningful work that modernizes education and mental health services! As long as I am provided with enough money to live, I do NOT care about pay - only impact.
 
 Feel free to connect with me at: [andr3w.darling@gmail.com]()
 
