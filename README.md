@@ -3,7 +3,7 @@ Andrew Darling
 
 Thanks for visiting my GitHub resume page!
 
-For more information about me, consider also looking at some of the repositories I am most proud of: [silver mind](), [the executioner](), and [moving pose]().
+For more information about me, consider also looking at some of the repositories I am most proud of: [silver-mind](), [executioner](), and [moving-pose]().
 
 Please feel free to connect with me at `andr3w.darling@gmail.com`. I am `OPEN` to any possible opportunities and am especially interested in doing meaningful work that modernizes education and mental health services! As long as I am provided with enough money to live, I do NOT care about pay - only impact.
 
