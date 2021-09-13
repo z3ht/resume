@@ -5,7 +5,7 @@ Thanks for visiting my GitHub resume page!
 
 For more information about me, consider also looking at some of the repositories I am most proud of: [silver mind](), [the executioner](), and [moving pose]().
 
-You can also connect with me at `andr3w.darling@gmail.com`. I am `open` to any possible opportunities and am especially interested in doing meaningful work in modernizing education and mental health services!
+You can also connect with me at `andr3w.darling@gmail.com`. I am `OPEN` to any possible opportunities and am especially interested in doing meaningful work in modernizing education and mental health services!
 
 ## Preview
 
