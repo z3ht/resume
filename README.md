@@ -12,10 +12,6 @@ For more information about me, consider also looking at some of the repositories
 
 Feel free to connect with me at: [andr3w.darling@gmail.com]()
 
-#### Technical Interests
-- Proving code correctness
-- Predictions with incomplete information
-
 ## Preview
 
 ![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
