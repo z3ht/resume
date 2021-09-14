@@ -14,7 +14,7 @@ Feel free to connect with me at: [andr3w.darling@gmail.com]()
 
 ## Preview
 
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
+![alt tag](https://raw.githubusercontent.com/z3ht/resume/master/src/darling-sample-image.png)
 
 ## Availability
 
