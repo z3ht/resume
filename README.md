@@ -12,17 +12,13 @@ For more information about me, consider also looking at some of the repositories
 
 Feel free to connect with me at: [andr3w.darling@gmail.com]()
 
-#### Technical Interests
-- Proving code correctness
-- Predictions with incomplete information
-
 ## Preview
 
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
+![alt tag](https://raw.githubusercontent.com/z3ht/resume/master/src/darling-sample-image.png)
 
 ## Availability
 
-1. PDF vesion - [on my website](https://andrewdarling.xyz/resume.pdf)
+1. PDF vesion - [on this repository](https://raw.githubusercontent.com/z3ht/resume/master/src/darling-resume-openfont.pdf)
 
 ## License
     Copyright 2014 Debarghya Das
